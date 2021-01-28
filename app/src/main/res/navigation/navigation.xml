@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/posTopFragment">
+    <fragment
+        android:id="@+id/posTopFragment"
+        android:name="com.example.procon_main.posTopFragment"
+        android:label="fragment_pos_top"
+        tools:layout="@layout/fragment_pos_top" />
+    <fragment
+        android:id="@+id/staffChangeFragment"
+        android:name="com.example.procon_main.staffChangeFragment"
+        android:label="fragment_staff_change"
+        tools:layout="@layout/fragment_staff_change" />
+</navigation>

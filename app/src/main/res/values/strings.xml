@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Procon_Main</string>
+    <string name="設定">設定</string>
+    <string name="従業員">従業員</string>
+    <string name="QRコード">QR\nコード</string>
+    <string name="在庫管理">在庫\n管理</string>
+    <string name="売上">売上</string>
+    <string name="会計">会計</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
